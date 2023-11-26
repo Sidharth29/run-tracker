@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 88
+exclude =
+    .git,
+    __pycache__,
+    ./build,
+    *.json,
+    Pipfile,
+    Pipfile.lock,
+    *.md
+
+max-complexity = 10
+per-file-ignores =
