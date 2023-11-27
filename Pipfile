@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+fitbit = "*"
+cherrypy = "*"
+arrow = "*"
+matplotlib = "*"
+python-decouple = "*"
+pydantic = "*"
+pydantic-settings = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
